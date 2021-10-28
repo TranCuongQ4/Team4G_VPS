@@ -33,6 +33,6 @@
 ![69c476dc5eaa96f4cfbb1](https://user-images.githubusercontent.com/92734523/139295459-d2260924-0bff-4daf-b4a2-597bd30f5f96.jpg)
 
 
-####Thank Opentunnel đã tạo ra nền tảng ứng dụng này
+#### Thank Opentunnel đã tạo ra nền tảng ứng dụng này
 
-**Dev: Trần Cường*
+**Dev: Trần Cường**
